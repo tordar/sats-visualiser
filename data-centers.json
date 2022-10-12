@@ -1,0 +1,427 @@
+[
+    {
+        "CENTER_NAME": "Akersgata",
+        "CENTER_ID": 166,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Aquarama",
+        "CENTER_ID": 258,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Asker",
+        "CENTER_ID": 206,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Bekkestua",
+        "CENTER_ID": 152,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Bekkestua Stasjon",
+        "CENTER_ID": 270,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Bergen LHG",
+        "CENTER_ID": 114,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Billingstad",
+        "CENTER_ID": 207,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Bislett",
+        "CENTER_ID": 156,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Bjørvika",
+        "CENTER_ID": 208,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Bryne",
+        "CENTER_ID": 232,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "CC Vest",
+        "CENTER_ID": 210,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Carl Berner",
+        "CENTER_ID": 209,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Colosseum",
+        "CENTER_ID": 212,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Damsgård",
+        "CENTER_ID": 231,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Danmarksplass",
+        "CENTER_ID": 188,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Dikeveien",
+        "CENTER_ID": 226,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Drammen",
+        "CENTER_ID": 106,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Ekspress Porsgrunn",
+        "CENTER_ID": 254,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Fagerborg",
+        "CENTER_ID": 263,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Fornebu",
+        "CENTER_ID": 253,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Forus",
+        "CENTER_ID": 185,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Fredrikstad",
+        "CENTER_ID": 266,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Hana",
+        "CENTER_ID": 235,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Hasle",
+        "CENTER_ID": 262,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Hellerud",
+        "CENTER_ID": 130,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Herbarium",
+        "CENTER_ID": 237,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "HiYoga Aker Brygge",
+        "CENTER_ID": 802,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "HiYoga Majorstuen",
+        "CENTER_ID": 801,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Hillevåg",
+        "CENTER_ID": 236,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Hinna",
+        "CENTER_ID": 267,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Hoff",
+        "CENTER_ID": 116,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Hønefoss",
+        "CENTER_ID": 205,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Ila",
+        "CENTER_ID": 269,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Jessheim",
+        "CENTER_ID": 223,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Kalbakken",
+        "CENTER_ID": 213,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Kampen",
+        "CENTER_ID": 161,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Karlsrud",
+        "CENTER_ID": 216,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Klosterøya",
+        "CENTER_ID": 256,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Kokstad",
+        "CENTER_ID": 230,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Kolbotn",
+        "CENTER_ID": 224,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Kristiansand Sentrum",
+        "CENTER_ID": 260,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Lagunen",
+        "CENTER_ID": 187,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Lambertseter",
+        "CENTER_ID": 217,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Langnes",
+        "CENTER_ID": 154,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Lillehammer",
+        "CENTER_ID": 215,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Lillestrøm",
+        "CENTER_ID": 146,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Linderud",
+        "CENTER_ID": 214,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Lund",
+        "CENTER_ID": 261,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Madla",
+        "CENTER_ID": 233,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Metro",
+        "CENTER_ID": 149,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Nationaltheatret",
+        "CENTER_ID": 172,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Nesttun",
+        "CENTER_ID": 104,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Njårdhallen",
+        "CENTER_ID": 173,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Nydalen",
+        "CENTER_ID": 178,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Oasen",
+        "CENTER_ID": 268,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Porselensfabrikken",
+        "CENTER_ID": 255,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Porsgrunn",
+        "CENTER_ID": 202,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Ringnes Park",
+        "CENTER_ID": 218,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Ryen",
+        "CENTER_ID": 219,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Røa Bad",
+        "CENTER_ID": 252,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Røa Trening",
+        "CENTER_ID": 251,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Sagene",
+        "CENTER_ID": 158,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Sandnes",
+        "CENTER_ID": 171,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Sandvika Panorama",
+        "CENTER_ID": 222,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Sandviken",
+        "CENTER_ID": 167,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Sarpsborg",
+        "CENTER_ID": 133,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Schous plass",
+        "CENTER_ID": 148,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Sjølyst",
+        "CENTER_ID": 220,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Slemmestad",
+        "CENTER_ID": 189,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Solli plass",
+        "CENTER_ID": 147,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Spektrum",
+        "CENTER_ID": 101,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Storhaug",
+        "CENTER_ID": 186,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Storo",
+        "CENTER_ID": 157,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Strømsø",
+        "CENTER_ID": 184,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Tasta",
+        "CENTER_ID": 162,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Trim Towers",
+        "CENTER_ID": 234,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Tromsø",
+        "CENTER_ID": 142,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Tunejordet",
+        "CENTER_ID": 227,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Ullevaal Stadion",
+        "CENTER_ID": 221,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Vestkanten",
+        "CENTER_ID": 131,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Vinderen",
+        "CENTER_ID": 163,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Vågsbygd",
+        "CENTER_ID": 240,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Wergeland",
+        "CENTER_ID": 182,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Åsane",
+        "CENTER_ID": 132,
+        "CENTER_ADDRESS": ""
+    },
+    {
+        "CENTER_NAME": "Åssiden",
+        "CENTER_ID": 183,
+        "CENTER_ADDRESS": ""
+    }
+]
