@@ -2,426 +2,426 @@
     {
         "CENTER_NAME": "Akersgata",
         "CENTER_ID": 166,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Akersgata 51, 0180 Oslo"
     },
     {
         "CENTER_NAME": "Aquarama",
         "CENTER_ID": 258,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Tangen 8, 4608 Kristiansand"
     },
     {
         "CENTER_NAME": "Asker",
         "CENTER_ID": 206,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Erteløkka 1, 1384 Asker"
     },
     {
         "CENTER_NAME": "Bekkestua",
         "CENTER_ID": 152,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Gamle Ringeriksvei 34C, 1357 Bekkestua Oslo"
     },
     {
         "CENTER_NAME": "Bekkestua Stasjon",
         "CENTER_ID": 270,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Bærumsveien 206, 1357 Bekkestua"
     },
     {
         "CENTER_NAME": "Bergen LHG",
         "CENTER_ID": 114,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Lars Hillesgate 29, 5008 Bergen"
     },
     {
         "CENTER_NAME": "Billingstad",
         "CENTER_ID": 207,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Billingstadsletta 11, 1396 Billingstad"
     },
     {
         "CENTER_NAME": "Bislett",
         "CENTER_ID": 156,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Bislettgata 6, 0167 Oslo"
     },
     {
         "CENTER_NAME": "Bjørvika",
         "CENTER_ID": 208,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Dronning Eufemias Gate 18, 0191 Oslo"
     },
     {
         "CENTER_NAME": "Bryne",
         "CENTER_ID": 232,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Trallfaveien 1, 4340 Bryne"
     },
     {
         "CENTER_NAME": "CC Vest",
         "CENTER_ID": 210,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Lilleakerveien 14, 0283 Oslo"
     },
     {
         "CENTER_NAME": "Carl Berner",
         "CENTER_ID": 209,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Trondheimsveien 135, 0570 Oslo"
     },
     {
         "CENTER_NAME": "Colosseum",
         "CENTER_ID": 212,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Middelthunsgate 19, 0368 Oslo"
     },
     {
         "CENTER_NAME": "Damsgård",
         "CENTER_ID": 231,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Damsgårdsveien 135, 5160 Laksevåg"
     },
     {
         "CENTER_NAME": "Danmarksplass",
         "CENTER_ID": 188,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Solheimsgaten 58, 5058 Bergen"
     },
     {
         "CENTER_NAME": "Dikeveien",
         "CENTER_ID": 226,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Dikeveien 48, 1661 Rolvsøy"
     },
     {
         "CENTER_NAME": "Drammen",
         "CENTER_ID": 106,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Brandtenborggate 1, 3009 Drammen"
     },
     {
         "CENTER_NAME": "Ekspress Porsgrunn",
         "CENTER_ID": 254,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Jernbanegata 3, 3915 Porsgrunn"
     },
     {
         "CENTER_NAME": "Fagerborg",
         "CENTER_ID": 263,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Pilestredet 75c, 0354 Oslo"
     },
     {
         "CENTER_NAME": "Fornebu",
         "CENTER_ID": 253,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Forneburingen 209, 1364 Fornebu"
     },
     {
         "CENTER_NAME": "Forus",
         "CENTER_ID": 185,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Svanholmen 2, 4033 Stavanger"
     },
     {
         "CENTER_NAME": "Fredrikstad",
         "CENTER_ID": 266,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Kråkerøyveien 4, 1671 Kråkerøy"
     },
     {
         "CENTER_NAME": "Hana",
         "CENTER_ID": 235,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Hanaveien 17, 4327 Sandnes"
     },
     {
         "CENTER_NAME": "Hasle",
         "CENTER_ID": 262,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Grenseveien 50, 0579 Oslo"
     },
     {
         "CENTER_NAME": "Hellerud",
         "CENTER_ID": 130,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Tvetenveien 168, 0671 Oslo"
     },
     {
         "CENTER_NAME": "Herbarium",
         "CENTER_ID": 237,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Lars Hertervigs gate 6, 4005 Stavanger"
     },
     {
         "CENTER_NAME": "HiYoga Aker Brygge",
         "CENTER_ID": 802,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Bryggetorget 5, 0520 Oslo"
     },
     {
         "CENTER_NAME": "HiYoga Majorstuen",
         "CENTER_ID": 801,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Schultz' gate 1, 0365 Oslo"
     },
     {
         "CENTER_NAME": "Hillevåg",
         "CENTER_ID": 236,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Hillevågsveien 25, 4016 Stavanger"
     },
     {
         "CENTER_NAME": "Hinna",
         "CENTER_ID": 267,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Jåttåvågveien 7, 4020 Stavanger"
     },
     {
         "CENTER_NAME": "Hoff",
         "CENTER_ID": 116,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Hoffsveien 10, 0275 Oslo"
     },
     {
         "CENTER_NAME": "Hønefoss",
         "CENTER_ID": 205,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Kartverksveien 2, 3511 Hønefoss"
     },
     {
         "CENTER_NAME": "Ila",
         "CENTER_ID": 269,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Waldemar Thranes gate 86, 0175 Oslo"
     },
     {
         "CENTER_NAME": "Jessheim",
         "CENTER_ID": 223,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Industrivegen 21, 2 etg, 2069 Jessheim"
     },
     {
         "CENTER_NAME": "Kalbakken",
         "CENTER_ID": 213,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Kalbakkveien 6, 0953 Oslo"
     },
     {
         "CENTER_NAME": "Kampen",
         "CENTER_ID": 161,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Hedmarksgata 13, 0658 Oslo"
     },
     {
         "CENTER_NAME": "Karlsrud",
         "CENTER_ID": 216,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Cecilie Thoresensvei 3, 1153 Oslo"
     },
     {
         "CENTER_NAME": "Klosterøya",
         "CENTER_ID": 256,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Unionsgata 5, 3732 Skien"
     },
     {
         "CENTER_NAME": "Kokstad",
         "CENTER_ID": 230,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Kokstadvegen 25B, 5257 Kokstad"
     },
     {
         "CENTER_NAME": "Kolbotn",
         "CENTER_ID": 224,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Kolbotnveien 12, 1410 Kolbotn"
     },
     {
         "CENTER_NAME": "Kristiansand Sentrum",
         "CENTER_ID": 260,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Henrik Wergelandsgt 27, 4666 Kristiansand"
     },
     {
         "CENTER_NAME": "Lagunen",
         "CENTER_ID": 187,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Laguneveien 1, 5239 Rådal"
     },
     {
         "CENTER_NAME": "Lambertseter",
         "CENTER_ID": 217,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Langbølgen 5. Bygg C, 1150 Oslo"
     },
     {
         "CENTER_NAME": "Langnes",
         "CENTER_ID": 154,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Huldervegen 8, 9016 Tromsø"
     },
     {
         "CENTER_NAME": "Lillehammer",
         "CENTER_ID": 215,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Strandpromenaden 79, 2609 Lillehammer"
     },
     {
         "CENTER_NAME": "Lillestrøm",
         "CENTER_ID": 146,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Dampsagveien 12, 2004 Lillestrøm"
     },
     {
         "CENTER_NAME": "Linderud",
         "CENTER_ID": 214,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Erich Mogensøns vei 38, 0517 Oslo"
     },
     {
         "CENTER_NAME": "Lund",
         "CENTER_ID": 261,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Industrigaten 6, 4632 Kristiansand"
     },
     {
         "CENTER_NAME": "Madla",
         "CENTER_ID": 233,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Madlakrossen 9, 4042 Hafrsfjord"
     },
     {
         "CENTER_NAME": "Metro",
         "CENTER_ID": 149,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Kulturhusgata 2, 1473 Lørenskog"
     },
     {
         "CENTER_NAME": "Nationaltheatret",
         "CENTER_ID": 172,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Ruseløkkveien 6, 0251 Oslo"
     },
     {
         "CENTER_NAME": "Nesttun",
         "CENTER_ID": 104,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Apeltunvegen 2, 5222 Nesttun"
     },
     {
         "CENTER_NAME": "Njårdhallen",
         "CENTER_ID": 173,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Sørkedalsveien 106, 0378 Oslo"
     },
     {
         "CENTER_NAME": "Nydalen",
         "CENTER_ID": 178,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Sandakerveien 109, Nydalen, 0484 Oslo"
     },
     {
         "CENTER_NAME": "Oasen",
         "CENTER_ID": 268,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Folke Bernadottes vei 52, 5147 Fyllingsdalen"
     },
     {
         "CENTER_NAME": "Porselensfabrikken",
         "CENTER_ID": 255,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Porselensvegen 8, 3920 Porsgrunn"
     },
     {
         "CENTER_NAME": "Porsgrunn",
         "CENTER_ID": 202,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Serine Jeremiassens gate 4, 3922 Porsgrunn"
     },
     {
         "CENTER_NAME": "Ringnes Park",
         "CENTER_ID": 218,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Sannergata 6b, 0557 Oslo"
     },
     {
         "CENTER_NAME": "Ryen",
         "CENTER_ID": 219,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Ryensvingen 5, 0680 Oslo"
     },
     {
         "CENTER_NAME": "Røa Bad",
         "CENTER_ID": 252,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Tore Hals Mejdells vei 18, 0751 Oslo"
     },
     {
         "CENTER_NAME": "Røa Trening",
         "CENTER_ID": 251,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Tore Hals Mejdells vei 18, 0751 Oslo"
     },
     {
         "CENTER_NAME": "Sagene",
         "CENTER_ID": 158,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Pontoppidans gate 7, 0462 Oslo"
     },
     {
         "CENTER_NAME": "Sandnes",
         "CENTER_ID": 171,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Vågsgata 16, 4306 Sandnes"
     },
     {
         "CENTER_NAME": "Sandvika Panorama",
         "CENTER_ID": 222,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Sandviksveien 176, 1338 Sandvika"
     },
     {
         "CENTER_NAME": "Sandviken",
         "CENTER_ID": 167,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Måseskjæret 3, 5035 Bergen"
     },
     {
         "CENTER_NAME": "Sarpsborg",
         "CENTER_ID": 133,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Storbyen Kjøpesenter Roald Amundsens gate 36, 1723 Sarpsborg"
     },
     {
         "CENTER_NAME": "Schous plass",
         "CENTER_ID": 148,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Trondheimsveien 2 D, 0560 Oslo"
     },
     {
         "CENTER_NAME": "Sjølyst",
         "CENTER_ID": 220,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Karenlyst Allè 7, 0278 Oslo"
     },
     {
         "CENTER_NAME": "Slemmestad",
         "CENTER_ID": 189,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Kirkeallen 1, 3470 Slemmestad"
     },
     {
         "CENTER_NAME": "Solli plass",
         "CENTER_ID": 147,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Henrik Ibsensgate 100, 0254 Oslo"
     },
     {
         "CENTER_NAME": "Spektrum",
         "CENTER_ID": 101,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Sonja Henies plass 4, 0185 Oslo"
     },
     {
         "CENTER_NAME": "Storhaug",
         "CENTER_ID": 186,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Kvitsøygata 19b , 4014 Stavanger"
     },
     {
         "CENTER_NAME": "Storo",
         "CENTER_ID": 157,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Vitaminveien 5, 0485 Oslo"
     },
     {
         "CENTER_NAME": "Strømsø",
         "CENTER_ID": 184,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "CO Lunds Gate 25, 3043 Drammen"
     },
     {
         "CENTER_NAME": "Tasta",
         "CENTER_ID": 162,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Tastatunet 1, 4027 Stavanger"
     },
     {
         "CENTER_NAME": "Trim Towers",
         "CENTER_ID": 234,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Larsamyrå 18, 4313 Sandnes"
     },
     {
         "CENTER_NAME": "Tromsø",
         "CENTER_ID": 142,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Fredrik Langesgate 12, 9008 Tromsø"
     },
     {
         "CENTER_NAME": "Tunejordet",
         "CENTER_ID": 227,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Vingulmorkveien 27, 1710 Sarpsborg"
     },
     {
         "CENTER_NAME": "Ullevaal Stadion",
         "CENTER_ID": 221,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Sognsveien 75 E, 0855 Oslo"
     },
     {
         "CENTER_NAME": "Vestkanten",
         "CENTER_ID": 131,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Loddefjordveien 2, 5171 Loddefjord"
     },
     {
         "CENTER_NAME": "Vinderen",
         "CENTER_ID": 163,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Slemdalsveien 70, 0370 Oslo"
     },
     {
         "CENTER_NAME": "Vågsbygd",
         "CENTER_ID": 240,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Fiskåveien 4, 4621 Kristiansand"
     },
     {
         "CENTER_NAME": "Wergeland",
         "CENTER_ID": 182,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Storetveitvegen 6, 5067 Bergen"
     },
     {
         "CENTER_NAME": "Åsane",
         "CENTER_ID": 132,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Horisont senter Myrdalsvegen 2, 5130 Nyborg"
     },
     {
         "CENTER_NAME": "Åssiden",
         "CENTER_ID": 183,
-        "CENTER_ADDRESS": ""
+        "CENTER_ADDRESS": "Ingvald Ludvigsens Gt. 21, 3027 Drammen"
     }
 ]
