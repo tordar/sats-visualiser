@@ -34,4 +34,3 @@ print("[")
 for tag in range(85):
     print("{\n" f'"CENTER_NAME": "{arr1[tag]}", \n"CENTER_ID": {arr2[tag]}, \n"CENTER_ADDRESS": ""'"\n},")
 print("]")
-
