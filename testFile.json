@@ -3,24 +3,36 @@
         "CENTER_NAME": "Akersgata",
         "CENTER_ID": 166,
         "CENTER_ADDRESS": "Akersgata 51, 0180 Oslo",
-        "GEOLOCATION": "X"
+        "GEOLOCATION": [
+            59.914755,
+            10.74325
+        ]
     },
     {
         "CENTER_NAME": "Aquarama",
         "CENTER_ID": 258,
         "CENTER_ADDRESS": "Tangen 8, 4608 Kristiansand",
-        "GEOLOCATION": "X"
+        "GEOLOCATION": [
+            58.1471853,
+            8.0065047
+        ]
     },
     {
         "emp_name": "Nikhil",
         "email": "nikhil@geeksforgeeks.org",
         "job_profile": "Full Time",
-        "GEOLOCATION": "X"
+        "GEOLOCATION": [
+            59.8343746,
+            10.4382552
+        ]
     },
     {
         "emp_name": "Nikhil",
         "email": "nikhil@geeksforgeeks.org",
         "job_profile": "Full Time",
-        "GEOLOCATION": "X"
+        "GEOLOCATION": [
+            59.9180846,
+            10.5859702
+        ]
     }
 ]
