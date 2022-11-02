@@ -1,50 +1,71 @@
 import './App.css';
 import React, { useState } from 'react';
-import { MapContainer, TileLayer, Circle, useMap } from 'react-leaflet'
+import { MapContainer, TileLayer, Circle, Popup, useMap } from 'react-leaflet'
 import 'leaflet/dist/leaflet.css';
 import LocationData from './LocationData';
-import json from './data-centers.json'
+import json from './personalVisits.json'
+import checkins from './CHECKINS.json'
 
 
 function App() {
   //const [location, setLocations] = useState([])
   const [geoLocation, setGeoLocations] = useState([])
-  const [center, setCenters] = useState([])
 
-  const centerr = [59.933, 10.750]
-  const fillBlueOptions = { fillColor: 'blue' }
   const location=json
+  const checkinsData=checkins
 
-  // const setLatitude = () => {
-  //   setLocations(json)
-    
-  //   return (
-  //     location.map(element => {
-  //     <Circle center={element.GEOLOCATION}/>
-  //   })
-  //   )
-  // }
 
-  //setLatitude()
+    {checkinsData.map(el =>{
+      if(el.CHECKIN_CENTER === json.CENTER_ID){
+        console.log(json.CENTER_NAME)
+      } else{
+        console.log('no')
+      }
+    })}
+ 
 
   return (
     <div id='map'>
      
-      <MapContainer className='leaflet-container' center={[59.933, 10.750]} zoom={13} scrollWheelZoom={true}>
+  <MapContainer className='leaflet-container' center={[59.933, 10.750]} zoom={13} scrollWheelZoom={true}>
   <TileLayer
     attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
     url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
   />
-  <Circle center={centerr} pathOptions={fillBlueOptions} radius={200} />
 
   
-  {location.map(element => 
-  <Circle 
+  {location.map(element => {
+  if(element.COUNT_VISITED != undefined){
+
+  
+  return (
+    <Circle
       center={element.GEOLOCATION}
       key={element.CENTER_NAME}
-      label={"hello"}
-      radius={200}
-    />)}
+      radius={100}
+      color={'green'}
+      >
+      <Popup>
+        {`${element.CENTER_NAME}, has been visited ${element.COUNT_VISITED} times`}
+      </Popup>
+    </Circle> )
+    }
+  else {
+    return (
+      <Circle
+        center={element.GEOLOCATION}
+        key={element.CENTER_NAME}
+        radius={100}
+        color={'red'}
+        >
+        <Popup>
+          {`${element.CENTER_NAME}, has been visited ${element.COUNT_VISITED} times`}
+        </Popup>
+      </Circle> )
+  }
+  }
+  
+  )}
     
 </MapContainer>
 </div>
