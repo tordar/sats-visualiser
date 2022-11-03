@@ -2,7 +2,7 @@ import './App.css';
 import React, { useState } from 'react';
 import { MapContainer, TileLayer, Circle, Popup, useMap } from 'react-leaflet'
 import 'leaflet/dist/leaflet.css';
-import LocationData from './LocationData';
+import Menu from './Menu';
 import json from './personalVisits.json'
 import checkins from './CHECKINS.json'
 
@@ -22,22 +22,26 @@ function App() {
         console.log('no')
       }
     })}
- 
+
 
   return (
+    
+    
     <div id='map'>
-     
+     <Menu>
+      
+     </Menu>
   <MapContainer className='leaflet-container' center={[59.933, 10.750]} zoom={13} scrollWheelZoom={true}>
   <TileLayer
     attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
     url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
   />
 
-  
-  {location.map(element => {
-  if(element.COUNT_VISITED != undefined){
 
-  
+
+  {location.map(element => {
+  if(element.COUNT_VISITED !== undefined){
+
   return (
     <Circle
       center={element.GEOLOCATION}
@@ -62,9 +66,8 @@ function App() {
           {`${element.CENTER_NAME}, has been visited ${element.COUNT_VISITED} times`}
         </Popup>
       </Circle> )
-  }
-  }
-  
+      }
+    }
   )}
     
 </MapContainer>
