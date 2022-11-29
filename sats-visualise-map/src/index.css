@@ -16,8 +16,8 @@ code {
 #overlay {
   position: fixed; /* Sit on top of the page content */
   display: block;
-  width: 15%; /* Full width (cover the whole page) */
-  height: 50%; /* Full height (cover the whole page) */
+  width: 20%; /* Full width (cover the whole page) */
+  height: 75%; /* Full height (cover the whole page) */
   top: 100px;
   left: 20px;
   right: 0;
@@ -28,7 +28,22 @@ code {
 }
 
 .address {
-  height: 15px;
+  height: 30px;
   margin: 10px;
   margin-bottom: 20px;
+  padding: 10px;
+  display: flex;
+  border-bottom: 2px solid;
+}
+
+.name{
+  display: flex;
+  width: 50%;
+  justify-content: center;
+}
+
+.visits{
+  display: flex;
+  width: 50%;
+  justify-content: center;
 }
