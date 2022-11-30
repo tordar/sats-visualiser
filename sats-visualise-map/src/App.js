@@ -8,7 +8,6 @@ import checkins from './CHECKINS.json'
 
 
 function App() {
-  //const [location, setLocations] = useState([])
   const [geoLocation, setGeoLocations] = useState([])
 
   const location=json
@@ -63,7 +62,7 @@ function App() {
         color={'red'}
         >
         <Popup>
-          {`${element.CENTER_NAME}, has been visited ${element.COUNT_VISITED} times`}
+          {`${element.CENTER_NAME}, has been visited 0 times`}
         </Popup>
       </Circle> )
       }
